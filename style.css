@@ -4,6 +4,13 @@ body {
 .container{
 	width: 85%;
 	margin:auto;
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
 h1 {
   
   margin: 50px;

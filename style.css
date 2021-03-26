@@ -12,10 +12,13 @@ p {
   font-family: TimesNewRoman;
   font-size: 150%;
 }
-div {
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
-}
+.table1{
+	background-color:white;
+	color:black;
 
+	border: 5px black solid;
+	border-width:3px;
+
+	padding:20px;
+	margin:10px;
+}
